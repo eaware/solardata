@@ -1255,7 +1255,7 @@
             {
               "key": 2048,
               "valueEN": "ID60 Inverter not connected to the PE wire",
-              "valueEN": "ID60 Brak podłączenie falownika do kabla PE"
+              "valuePL": "ID60 Brak podłączenie falownika do kabla PE"
             },
             {
               "key": 4096,
